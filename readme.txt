@@ -1,0 +1,1 @@
+generiamo 10 mail attraverso vue utilizzando l'API
